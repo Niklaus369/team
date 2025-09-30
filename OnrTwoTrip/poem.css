@@ -1,0 +1,77 @@
+#author{
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    margin: auto;
+}
+#author:hover{
+    color: red;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: italic;
+    font-size: 14px;
+    margin: auto;
+    cursor: pointer;
+}
+
+h1{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 700;
+}
+
+h3{
+   font-family: Arial, Helvetica, sans-serif;
+}
+
+.poem{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 18px;
+    padding: 0 10px;
+    margin: auto;
+    color: #3c3c3c;
+    text-align: left;
+}
+
+.other_poems{
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 24px;
+    margin: auto;
+    font-weight: bold;
+}
+
+.other_poems:hover{
+    cursor: pointer;
+    color: red;
+    font-weight: bold;
+    border: 0 0 20px;
+}
+
+#num1{
+    border-radius: 50%;
+    height: 150px;
+    margin: auto;
+}
+
+#num2{
+    border-radius: 10%;
+    height: 200px;
+    margin: auto;
+    padding: 20px 0 0;
+}
+
+button{
+    height: 40px;
+    width: 150px;
+    border-radius: 20px;
+    background-color: aqua;
+    font-size: 18px;
+    margin: auto;
+}
+
+button:hover{
+    height: 40px;
+    width: 150px;
+    border-radius: 20px;
+    background-color: rgb(0, 255, 30);
+    cursor: pointer;
+}
